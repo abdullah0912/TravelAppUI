@@ -1,4 +1,4 @@
-# flutter Travel App UI
+# Travel App UI
 ### Hello friends! This is a Travel App UI has Coded with Flutter 3.0.0 on Visual Studio Code IDE
 
 - This project is a part of Figma To Flutter
